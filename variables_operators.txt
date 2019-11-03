@@ -25,3 +25,15 @@
 
 
 6. Find which operators (+, -, *, /) can be applied to Boolean types?
+
+
+
+
+7. What is the type of below values?
+'hello world!'  -> string
+1
+True
+False
+-7
+3.14
+'abcd'

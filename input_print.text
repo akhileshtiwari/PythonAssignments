@@ -27,3 +27,19 @@ Radha says "Hello Osh. How're you?"
 
 
 5. What is the data type of return value for input() function? 
+
+
+
+
+
+6. Spot and fix error in below statements. If there is no error then write No Error.
+
+a. print(Hello World!)
+
+b. print("Hello "How are you?"")
+
+c. print("Good morning')
+
+d. print(2345)
+
+e. print("Hello world" + 'how is everyone')
