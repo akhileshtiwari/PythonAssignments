@@ -1,0 +1,27 @@
+1. What is a string value type? What are the two different ways to create a string value?
+
+
+
+2. What is the difference between Float and Integer?
+
+
+
+
+3. What are the two different values for Boolean type? How do you write them?
+
+
+
+
+4. What is the difference between equal to operator and assignment operator? How do you write and use these two operators?
+
+
+
+
+
+5. Find which operators (+, -, *, /) can be applied to string types?
+
+
+
+
+
+6. Find which operators (+, -, *, /) can be applied to Boolean types?
