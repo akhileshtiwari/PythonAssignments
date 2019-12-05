@@ -1,0 +1,42 @@
+1. What are the six comparison operators? What data type is the output of comparison operators? What data types can be input to the comparison operators?
+HINT: == (equal to operator)
+
+
+
+
+
+
+2. What are the 3 boolean operators? What data type is the input and output of boolean operators?
+
+
+
+
+
+
+3. Write Truth table of the three boolean operators.
+
+
+
+
+
+4. What is the difference between equal to operator and assignment operator?
+
+
+
+
+
+5. Write the output of following expressions. 
+a. (4 > 5) or (3 < 7)
+b. (True == 1) and (False != 0)
+c. not ('a' > 5)
+d. not True and not False
+e. not(1==2) and not(2 != 3)
+
+
+
+
+
+
+
+
+
