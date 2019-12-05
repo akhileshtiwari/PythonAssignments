@@ -1,0 +1,56 @@
+1. Explain what is a condition and where will you use it?
+
+
+
+
+2. Explain if, elif, and else flow controls?
+
+
+
+
+
+
+
+3. Explain while flow controls? What is the condition in a while loop? How will you print "Hello World!" 5 times using while loop?
+
+
+
+
+
+
+
+4. What will be the output of below programm?
+spam = 7
+if spam == 1:
+    print("Hello")
+elif spam == 2:
+    print("Howdy?")
+else:
+    print("Greetings")
+
+
+
+
+
+
+
+
+5. What is a function? How do you use "def" keyword to write a custom function? 
+
+
+
+
+
+
+
+6. Write a function which takes a user and password as input. If user is 'john' and password is '123' print 'Welcome John' else print "Wrong user name and password".
+
+
+
+
+
+
+7. Descibe below functions and their usage.
+a. str
+b. int
+c. type
